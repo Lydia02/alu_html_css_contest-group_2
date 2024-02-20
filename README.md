@@ -93,7 +93,10 @@ If you are using Visual Studio Code (VS Code) as your IDE, you can use the Live 
 
    - Right-click on the `index.html` file in the VS Code explorer and select "Open with Live Server", or click on the "Go Live" button at the bottom right of the VS Code window.
    - Your default web browser will open, and the project will be served from a local URL, typically `http://127.0.0.1:5500`.
+   
+## Live Demo
 
+Check out the live version here: [Live Website](https://alukonnect.netlify.app/)
 
 # ALUMNI KONNECT
 
